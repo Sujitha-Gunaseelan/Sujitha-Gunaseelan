@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sujitha-Gunaseelan/Sujitha-Gunaseelan/main/profile.png" width="360" style="border-radius:22px;" />
+  <img src="https://raw.githubusercontent.com/Sujitha-Gunaseelan/Sujitha-Gunaseelan/main/profile.jpeg" width="360" style="border-radius:22px;" />
 </p>
 
 <p align="center">
