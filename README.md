@@ -4,7 +4,7 @@
 ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,100:f59e0b&height=170&section=header&text=SUJITHA%20S&fontSize=40&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,100:f59e0b&height=170&section=header&text=SUJITHA%20G&fontSize=40&fontColor=000000&animation=fadeIn" />
 </p>
 
 <h3 align="center">
