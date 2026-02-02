@@ -1,6 +1,6 @@
 <!-- =====================================================
-     Y E L L O W   N E O N   C Y B E R   P R O F I L E
-     K A R T H I K   M   S
+     N A V Y B L U E   P R O F I L E
+     
 ===================================================== -->
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-<!-- ================= YELLOW TYPING ================= -->
+<!-- ================= blue TYPING ================= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=900&color=FACC15&center=true&vCenter=true&width=1000&height=60&lines=ECE+Undergraduate+%7C+Embedded+System;Micro+Controller+%7C;Hackathon+Builder+%7C+System+Thinker;From+Silicon+to+System+Level+Design" />
 </p>
