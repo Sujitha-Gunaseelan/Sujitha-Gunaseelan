@@ -32,7 +32,7 @@
 
 <!-- ================= STATUS ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DOMAIN-RTL%20DESIGN-facc15?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DOMAIN-CHIP%20DESIGN-facc15?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FOCUS-DIGITAL%20SYSTEMS-fbbf24?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MODE-%20CRITICAL%20THINKER-f59e0b?style=for-the-badge"/>
 </p>
