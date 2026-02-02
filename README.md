@@ -103,7 +103,7 @@ are where I learn best.
 <p align="center">
 
   <a href="https://www.linkedin.com/in/sujitha-gunaseelan14/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sujitha%20M%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-SUJITHA GUNASEELAN%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   &nbsp;&nbsp;
